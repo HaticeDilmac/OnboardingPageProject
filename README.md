@@ -1,16 +1,9 @@
 # onboarding_page
 
-A new Flutter project.
+-It is a small-scale promotional project that includes promotional pages where brief information about the application is presented when we first install our application.
+- By applying shared Preference in the project, it is provided to obtain information about whether the user is logged in or not. Once the user logs in, the introduction screens will not appear in other logins, keeping the local login.
 
-## Getting Started
+-Uygulamamızı oluşturduğumuz zaman ilk yüklendiğinde uygulama hakkında kısaca bilgilerin sunulduğu tanıtım sayfalarının yer aldığı ufak çaplı tanıtım projesidir.
+-Proje içerisinde shared Preference uygulanarak kullanıcının giriş yapıp yapılmadığı hakkında bilgi edinilmesi sağlandı. Kullanıcı bir kez giriş yapınca localde giriş yapıldığı tutularak diğer girişlerde tanıtım ekranları gözükmeyecektir.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[onboarding_page.webm](https://user-images.githubusercontent.com/100489350/235326597-ca692495-487b-487a-8fea-39d32e0894b3.webm)
